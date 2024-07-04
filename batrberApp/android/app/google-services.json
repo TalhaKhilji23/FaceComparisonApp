@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617289662623",
+    "project_id": "newproj-b70df",
+    "storage_bucket": "newproj-b70df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617289662623:android:f35932febdf6a4675f62aa",
+        "android_client_info": {
+          "package_name": "com.batrberapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc3Nn1IotRjo9aKKeYtLTDp2yjrgiOnYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
